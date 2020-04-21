@@ -1,0 +1,15 @@
+{
+  "name": "castel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "down.js",
+  "dependencies": {
+    "child-process": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
